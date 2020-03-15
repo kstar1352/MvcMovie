@@ -35,7 +35,7 @@ namespace MvcMovie.Models
                         Title = "Ghostbusters ",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
-                        Rating = "R",
+                        Rating = "PG",
                         Price = 8.99M
                     },
 
@@ -44,7 +44,7 @@ namespace MvcMovie.Models
                         Title = "Ghostbusters 2",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
-                        Rating = "R",
+                        Rating = "PG",
                         Price = 9.99M
                     },
 
